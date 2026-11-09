@@ -6,6 +6,8 @@
 > **It will NOT help with monitors connected via HDMI.**
 > **First make sure that you have G-Sync or FreeSync turned off**
 
+> **Avoid enabling "Disable fullscreen optimizations" in the game's Compatibility properties. This setting can interfere with fast Alt+Tab switching.**
+
 > **If creating presets does not fix slow Alt+Tab switching, try [NVIDIA GeForce Game Ready Driver 577.00](https://us.download.nvidia.com/Windows/577.00/577.00-desktop-win10-win11-64bit-international-dch-whql.exe). This is NVIDIA's official direct installer for compatible desktop GeForce GPUs on Windows 10/11 64-bit.**
 
 > **For laptops or GPUs not supported by this package, use the [official NVIDIA driver search](https://www.nvidia.com/download/index.aspx) to find a compatible 577.xx driver.**
