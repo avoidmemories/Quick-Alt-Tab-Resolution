@@ -1,7 +1,8 @@
 # Quick Alt Tab
 
-> ## ⚠️ IMPORTANT: NVIDIA GPUs and DisplayPort monitors only
->
+> [!IMPORTANT] 
+> **NVIDIA GPUs and DisplayPort monitors only**
+
 > **This program works only with NVIDIA graphics cards and monitors connected via DisplayPort.**
 > **It will NOT help with monitors connected via HDMI.**
 > **First make sure that you have G-Sync or FreeSync turned off**
